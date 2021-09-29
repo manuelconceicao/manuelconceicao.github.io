@@ -1,0 +1,104 @@
+I"W<h1 id="manuel-conceição">Manuel Conceição</h1>
+
+<p><img src="./img/pic.png" alt="" /></p>
+
+<p>Hello! My name is Manuel Conceição. I graduated in a software development course and I am looking for an internship opportunity at Merkle, as a software developer.</p>
+
+<p>I have recently done a Summer Internship at Merkle in Vila Real’s office. I really liked the experience and the work culture. I believe it is the ideal place for me to grow and learn and,  if given an opportunity in the future, to work.</p>
+
+<h2 id="info">Info</h2>
+
+<ul>
+  <li>manuelpconceicao@gmail.com</li>
+  <li>(+351) 918 351 052</li>
+  <li>Avenida da Europa, nº12 - Encosta do Rio - 3ºdireito, 5000-557 Vila Real, Portugal</li>
+</ul>
+
+<h2 id="experience">Experience</h2>
+
+<p><strong>Vila Real - Summer Internship at Merkle</strong></p>
+
+<p>Worked in the development of a WebApp that integrated OCR and Machine Learning to read and extract information from Cvs handed by candidates and generated a new CV from a Merkle template, with all the information filled.</p>
+
+<p>Used technologies like C#, Javascript, React, Python, GIT, Azure Devops.</p>
+
+<p>Used Agile methodologies and Scrum framework.</p>
+
+<p><strong>Vila Real - Curricular Internship at ICS UTAD</strong></p>
+
+<p>This internship was held at Informatic and Communication Services at UTAD.
+Development a webstie for managing internal regulations.</p>
+
+<h2 id="education">Education</h2>
+
+<p><strong>ISEP Porto - Switch Software Dev Post-Graduation</strong></p>
+
+<p>Switch() is a requalification programme for those who want to acquire compentcies and skills for a full and fast integration into the job market  as an IT professional.</p>
+
+<p><strong>IEFP Vila Real - Specialization in ICT &amp; Programming</strong></p>
+
+<p>this course is a post-secondary training course. It aims to meet the needs of the business fabric, at an intermediate level and capable of responding to the challenges posed by a labor market in constant change and marked development.</p>
+
+<p><strong>UTAD Vila Real - Post_Graduation in Regional Journalism</strong></p>
+
+<p>This post-graduation was held in cooperation between LUSA News Agency and UTAD.</p>
+
+<p><strong>UTAD Vila Real - Bachelor in Communication Sciences</strong></p>
+
+<p>This bachelor provides skills in conception, development, implementation and control of organisations communication strategies and the development of creative processes applied to the business world.</p>
+
+<h2 id="skills">Skills</h2>
+
+<p><strong>Java</strong></p>
+
+<p><strong><progress id="bar1" value="50" max="100"> </progress></strong></p>
+
+<p><strong>Springboot</strong></p>
+
+<p><strong><progress id="bar2" value="20" max="100"> </progress></strong></p>
+
+<p><strong>C#</strong></p>
+
+<p><strong><progress id="bar3" value="50" max="100"> </progress></strong></p>
+
+<p><strong>JavaScript</strong></p>
+
+<p><strong><progress id="bar4" value="30" max="100"> </progress></strong></p>
+
+<p><strong>GIT</strong></p>
+
+<p><strong><progress id="bar5" value="60" max="100"> </progress></strong></p>
+
+<p><strong>Scrum</strong></p>
+
+<p><strong><progress id="bar6" value="70" max="100"> </progress></strong></p>
+
+<h2 id="i-speak">I speak</h2>
+
+<p><strong>Portuguese:</strong> <text style="color:green;">Native</text></p>
+
+<p><strong>English:</strong> <text style="color:green;">Advanced</text></p>
+
+<p><strong>Spanish:</strong> <text style="color:green;">Basic</text></p>
+
+<h2 id="i-am">I am</h2>
+
+<ul>
+  <li>Hardworking</li>
+  <li>Curious</li>
+  <li>Good team player</li>
+</ul>
+
+<h2 id="i-like">I like</h2>
+
+<ul>
+  <li>Reading</li>
+  <li>Calisthenics</li>
+  <li>Videogames</li>
+</ul>
+
+<!-- ### Footer
+
+Last updated: May 2013 -->
+
+:ET
