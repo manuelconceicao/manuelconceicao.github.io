@@ -10,7 +10,7 @@ title: Manuel Conceição's CV
 
 Hello! My name is Manuel Conceição. I graduated in a software development course and I am looking for an internship opportunity at Merkle, as a software developer. 
 
-I have recently done a Summer Internship at Merkle in Vila Real's office. I really liked the experience and the work culture. I believe it is the ideal place for me to grow and learn and,  if given an opportunity in the future, to work. 
+I have recently done a Summer Internship at Merkle. I really liked the experience and the work culture. I am looking for a place to grow, learn and, if given an opportunity in the future, to work. 
 
 
 
